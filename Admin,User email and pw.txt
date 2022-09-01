@@ -1,0 +1,2 @@
+admin email=l@gmail.com, pw=l123456
+user email= please test 
